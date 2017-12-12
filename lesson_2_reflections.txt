@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git begins the tracking of the files, and logging their versions with a unique
+	name. It is a good idea to do this so that you have earlier versions to track
+	down any issues you may come across.

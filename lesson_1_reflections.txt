@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Using diff takes you right to the difference. It saves time looking at line 
+    item by line item on 2 or more files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If I ever need to revisit a feature from an older version, I will be able to 
+    reuse it. Or if a bug is created, I can fall back on the previous version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You have more control of establishing when an older version ends and when a
+    new one begins. You may be in the middle of fixing an issue, and an auto-save
+    feature may save right in the middle of your fix. Your two versions then may
+    not make too much sense.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think it is because Git is programming or web dev based, where you need
+    multiple files for a product. While dropbox or google docs is more consumer
+    based. Most consumers will not need to save multipe files for a version of
+    a product.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use git log to get a birds eye view of the file history and get a 
+    snap shot of the changes made in each commit. You can use git diff to review
+    these changes side by side, and highlighted for your easy viewing.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I will have something to fall back on if i accidently break something. It
+    is a good security safety net to know that I can go back to what i once had.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it to track all my changes and upgrades to my niche based review
+    site that i would like to create. On a big level, I think there should be a 
+    pre-launch version control, and post launch. 
