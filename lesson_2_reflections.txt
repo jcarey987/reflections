@@ -11,3 +11,25 @@ value do you think it offers?
 	an intermediary inbetween the two. By that, you select the files one by one from
 	your working directory to place into the staging area, then you add all of the 
 	files in the staging area to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can use git diff --staged to review the changes that are being made compared to 
+	the most recent commit. You are also able to confirm that all of the files you want
+	to add are included, and ensure nothing extra is included.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+	Some situations when branches would be helpful in keeping your history organized
+	would be when you wanted to run down a "rabbit hole."  What I mean by that is 
+	when you want to TRY implementing a new feature or style, but you want to
+	maintain the integrity of the master branch  before you reach a final verdict on
+	the exploratory branch. This is helpful in that you maintain the integrity of the
+	master branch if you decide not to implement the new feature.
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams help me visualize the branch structure by graphically representing them in 
+	a linear and non-linear manner. It helps me see parent commits and how they relate 
+	to on another.
