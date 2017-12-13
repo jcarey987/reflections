@@ -33,3 +33,12 @@ How do the diagrams help you visualize the branch structure?
 	Diagrams help me visualize the branch structure by graphically representing them in 
 	a linear and non-linear manner. It helps me see parent commits and how they relate 
 	to on another.
+
+What is the result of merging two branches together? Why do we represent it in the diagram 
+the way we do?
+
+	The way I like to think of merging branches together is the one further off the master
+	branch converges into the one that is closer, or the one that is more masterful. The 
+	resulting product is code that implements all the changes made from two seperate 
+	branches. We represent it in the diagram the way we do to show that the branch is 
+	merging into the master branch, and will no longer continue in development.
