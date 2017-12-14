@@ -9,3 +9,7 @@ automatically stay up-to-date with your remote repository?
 	It may have an affect on your work. For example, if you and a colleague
 	are working on the same bit of code, and someone pushes their commit to
 	GitHub, if the pull occurs automatically, this may cause you to lose all the work you have been working on.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks are clones that occur between repositories on GitHub only. Clones occur when you copy a repository from GitHub or locally, and you contribute to the repository. A branch is another version of your project that can later be combined with other changes.
