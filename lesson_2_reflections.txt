@@ -25,7 +25,7 @@ organized? How would branches help?
 	would be when you wanted to run down a "rabbit hole."  What I mean by that is 
 	when you want to TRY implementing a new feature or style, but you want to
 	maintain the integrity of the master branch  before you reach a final verdict on
-	the exploratory branch. This is helpful in that you maintain the integrity of the
+	the exploratory branch. This is helpful in that you maintain the integrity of the 
 	master branch if you decide not to implement the new feature.
 
 How do the diagrams help you visualize the branch structure?
@@ -45,6 +45,8 @@ the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
-	It can save time when merges are done automatically for small bits of code...
-	.....
-	...
+	It can save time when merges are done automatically for small bits of code, however,
+	a bit of code may wind up merged unintenionally. Merging manually would be time 
+	consuming, but may prove to be a higher quality, as long as the reviewer has their
+	head in place!
+	
